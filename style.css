@@ -1,0 +1,31 @@
+
+}
+
+.bg-dark{
+  background-color: var(--second-color); !important
+
+}
+
+.nav-item:hover{
+  background-color: var(--first-alpha-color);
+}
+
+.bg-gradient-blue-green{
+  background-color: rgb(184, 83, 149);
+  background-image: linear-Gradient(
+    135deg,
+    rgba(47,145,224,0.91);
+     rgba(7,31,51,0.97) 79%
+  );
+  background-image: linear-Gradient( 
+    131deg,
+    rgba (28,118,173,0.92)
+    rgba (83,184,152,1)
+  );
+}
+.contenedor-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
